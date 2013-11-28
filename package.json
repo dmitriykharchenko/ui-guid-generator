@@ -2,11 +2,6 @@
   "name": "ui-guid-generator",
   "version": "0.0.1",
   "author": "Dmitriy Kharchenko <akimoto@yandex.ru>",
-  "description": "Generator for uniq ids",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aki-russia/ui-guid-generator.git"
-  },
   "dependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-concat": "0.3.0",
