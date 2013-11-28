@@ -2,6 +2,11 @@
 
 Generates uniq id for current session. 
 
+### Easy to install:
+
+	$ bower install ui_guid_generator
+
+
 ### Easy to use:
 
-	var id = guid_generator();
+	var id = ui_guid_generator();
